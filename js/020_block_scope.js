@@ -1,0 +1,1 @@
+// let and const have a block level scope while var nhas a functions level scope

@@ -1,0 +1,3 @@
+const personProtoypes = {
+    greeting: fnct
+}
